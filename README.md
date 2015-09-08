@@ -1,4 +1,4 @@
-## Mapping Master Build Project
+## JSON-SS Build Project
 
 This project contains a Maven POM that builds JSON-SS-related components.
 Currently it builds the [core JSON-SS](https://github.com/metadatacenter/json-ss.git) project 
@@ -13,7 +13,7 @@ To run the build process in this project, you must have the following items inst
 
 #### Building
 
-Create a suitable local directory and then clone the Mapping Master-related projects as follows:
+Create a suitable local directory and then clone the JSON-SS-related projects as follows:
 
     git clone https://github.com/metadatacenter/json-ss.git
     git clone https://github.com/metadatacenter/json-ss-integration-tests.git
